@@ -1,1 +1,1 @@
-console.log("Aman chaurasiya");
+console.log("Aman ");
